@@ -17,7 +17,6 @@ Olá!! Prazer, me chamo Rafaelly e sou estudante de Análise e Desenvolvimento d
   <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=RafaellySantosdasilva&repo=github-readme-stats)](https://github.com/RafaellySantosdasilva/github-readme-stats)
 
 
 
