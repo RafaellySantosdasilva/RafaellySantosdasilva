@@ -1,6 +1,6 @@
-Olá!! Prazer, me chamo Rafaelly e sou estudante de Análise e Desenvolvimento de Sistemas
+Olá!! Prazer, me chamo Rafaelly 
 
-- 🔭 Atualmente estudante de Tecnologia 
+- 🔭 Atualmente em busca de oportunidades de estágios
 - 🌱Estudando análise e desenvolvimento de sistema e cursando java na Udemy
 
 
